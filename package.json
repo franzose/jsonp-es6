@@ -1,0 +1,22 @@
+{
+  "name": "jsonp-promise",
+  "version": "1.0.0",
+  "description": "Tiny JSONP wrapper with modern promises support",
+  "main": "index.js", ,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franzose/jsonp-promise.git"
+  },
+  "keywords": [
+    "jsonp",
+    "promise",
+    "es6",
+    "es7",
+  ],
+  "author": "Jan Iwanow <iwanow.jan@gmail.com> (http://janiwanow.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franzose/jsonp-promise/issues"
+  },
+  "homepage": "https://github.com/franzose/jsonp-promise"
+}
