@@ -2,7 +2,7 @@
   "name": "jsonp-promise",
   "version": "1.0.0",
   "description": "Tiny JSONP wrapper with modern promises support",
-  "main": "index.js", ,
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/franzose/jsonp-promise.git"
