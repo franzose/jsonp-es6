@@ -1,5 +1,5 @@
 {
-  "name": "jsonp-promise",
+  "name": "jsonp-es6",
   "version": "1.0.0",
   "description": "Tiny JSONP wrapper with modern promises support",
   "main": "index.js",
