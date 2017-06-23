@@ -50,10 +50,8 @@
         script.src = url;
         script.async = true;
 
-        var errorHandler = errorCallback || config.error;
-
-        if (typeof errorHandler === 'function') {
-            script.onerror = errorHandler;
+        if (typeof errorCallback === 'function') {
+            script.onerror = errorCallback;
         }
 
         script.onload = script.onreadystatechange = function() {
